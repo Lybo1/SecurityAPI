@@ -1,0 +1,11 @@
+bin/
+obj/
+Properties/
+
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+
+appsettings.Development.json
